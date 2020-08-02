@@ -1,0 +1,115 @@
+Sun Aug 02 2020 18:15:13 GMT-0400 (Eastern Daylight Time) INFO Downloading launch data...
+Sun Aug 02 2020 18:15:13 GMT-0400 (Eastern Daylight Time) INFO Launch data successfully downloaded!
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":1,"mission":"FalconSat","ships":[],"youtubeId":"0a_00nJ_Y88"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":2,"mission":"DemoSat","ships":[],"youtubeId":"Lk4zQ2wP-Nc"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":3,"mission":"Trailblazer","ships":[],"youtubeId":"v0w9p3U8860"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":4,"mission":"RatSat","ships":[],"youtubeId":"dLQ2tZEH6G0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":5,"mission":"RazakSat","ships":[],"youtubeId":"yTaIDooc8Og"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":6,"mission":"Falcon 9 Test Flight","ships":[],"youtubeId":"nxSxgBKlYws"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":7,"mission":"COTS 1","ships":["5ea6ed2d080df4000697c901"],"youtubeId":"cdLITgWKe_0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":8,"mission":"COTS 2","ships":["5ea6ed2d080df4000697c901"],"youtubeId":"tpQzDbAY7yI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":9,"mission":"CRS-1","ships":["5ea6ed2d080df4000697c902"],"youtubeId":"-Vk3hiV_zXU"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":10,"mission":"CRS-2","ships":["5ea6ed2d080df4000697c902"],"youtubeId":"ik0ElKl5kW4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":11,"mission":"CASSIOPE","ships":["5ea6ed2d080df4000697c903"],"youtubeId":"uFefasS6bhc"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":12,"mission":"SES-8","ships":[],"youtubeId":"aAj5xapImEs"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":13,"mission":"Thaicom 6","ships":[],"youtubeId":"AnSNRzMEmCU"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":14,"mission":"CRS-3","ships":["5ea6ed2d080df4000697c902"],"youtubeId":"Od-lON4bTyQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":15,"mission":"OG-2 Mission 1","ships":[],"youtubeId":"lbHnSu-DLR4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":16,"mission":"AsiaSat 8","ships":[],"youtubeId":"essrkMGlw5s"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":17,"mission":"AsiaSat 6","ships":[],"youtubeId":"39ninsyTRk8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":18,"mission":"CRS-4","ships":["5ea6ed2d080df4000697c902"],"youtubeId":"7YkCh7uOw1Y"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":19,"mission":"CRS-5","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed2f080df4000697c90f","5ea6ed30080df4000697c912"],"youtubeId":"p7x-SumbynI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":20,"mission":"DSCOVR","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c"],"youtubeId":"OvHJSIKP0Hg"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":21,"mission":"ABS-3A / Eutelsat 115W B","ships":[],"youtubeId":"mN7lyaCBzT8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":22,"mission":"CRS-6","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed2f080df4000697c90f","5ea6ed30080df4000697c912"],"youtubeId":"csVpa25iqH0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":23,"mission":"TürkmenÄlem 52°E / MonacoSAT","ships":[],"youtubeId":"nBwAYT_ogj4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":24,"mission":"CRS-7","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c"],"youtubeId":"PuNymhcTtSQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":25,"mission":"OG-2 Mission 2","ships":[],"youtubeId":"O5bTbVbe4e4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":26,"mission":"Jason 3","ships":["5ea6ed2f080df4000697c910","5ea6ed30080df4000697c912","5ea6ed30080df4000697c914"],"youtubeId":"ivdKRJzl6y0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":27,"mission":"SES-9","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"muDPSyO7-A0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":28,"mission":"CRS-8","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c912","5ea6ed30080df4000697c913"],"youtubeId":"7pUAydjne5M"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":29,"mission":"JCSAT-2B","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c"],"youtubeId":"L0bMeDj76ig"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":30,"mission":"Thaicom 8","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"zBYC4f79iXc"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":31,"mission":"ABS-2A / Eutelsat 117W B","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"gLNmtUEvI5A"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":32,"mission":"CRS-9","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c912"],"youtubeId":"ThIdCuSsJh8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":33,"mission":"JCSAT-16","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"QZTCEO0gvLo"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":34,"mission":"Amos-6","ships":[],"youtubeId":"_BgJEXQkjNQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":35,"mission":"Iridium NEXT Mission 1","ships":["5ea6ed2f080df4000697c910","5ea6ed30080df4000697c912","5ea6ed30080df4000697c915"],"youtubeId":"7WimRhydggo"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":36,"mission":"CRS-10","ships":["5ea6ed30080df4000697c912"],"youtubeId":"giNhaEzv_PI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":37,"mission":"EchoStar 23","ships":[],"youtubeId":"lZmqbL-hz7U"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":38,"mission":"SES-10","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"xsZSXav4wI8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":39,"mission":"NROL-76","ships":["5ea6ed2f080df4000697c90c"],"youtubeId":"EzQpkQ1etdA"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":40,"mission":"Inmarsat-5 F4","ships":[],"youtubeId":"ynMYE64IEKs"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":41,"mission":"CRS-11","ships":["5ea6ed30080df4000697c912"],"youtubeId":"JuZBOUMsYws"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":42,"mission":"BulgariaSat-1","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed30080df4000697c913"],"youtubeId":"Y8mLi-rRTh8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":43,"mission":"Iridium NEXT Mission 2","ships":["5ea6ed2f080df4000697c910","5ea6ed2f080df4000697c911","5ea6ed30080df4000697c912"],"youtubeId":"7tIwZg8F9b8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":44,"mission":"Intelsat 35e","ships":[],"youtubeId":"MIHVPCj25Z0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":45,"mission":"CRS-12","ships":["5ea6ed30080df4000697c912"],"youtubeId":"vLxWsYx8dbo"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":46,"mission":"FormoSat-5","ships":["5ea6ed2e080df4000697c905","5ea6ed2f080df4000697c910"],"youtubeId":"J4u3ZN2g_MI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":47,"mission":"Boeing X-37B OTV-5","ships":["5ea6ed2e080df4000697c906","5ea6ed2f080df4000697c90b"],"youtubeId":"9M6Zvi-fFv4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":48,"mission":"Iridium NEXT Mission 3","ships":["5ea6ed2e080df4000697c905","5ea6ed2f080df4000697c910"],"youtubeId":"SB4N4xF2B2w"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":49,"mission":"SES-11 / Echostar 105","ships":["5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"iv1zeGSvhIw"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":50,"mission":"KoreaSat 5A","ships":["5ea6ed2f080df4000697c90d","5ea6ed2e080df4000697c908","5ea6ed30080df4000697c913"],"youtubeId":"RUjH14vhLxA"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":51,"mission":"CRS-13","ships":["5ea6ed30080df4000697c912"],"youtubeId":"OPHbqY9LHCs"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":52,"mission":"Iridium NEXT Mission 4","ships":["5ea6ed2e080df4000697c908"],"youtubeId":"wtdjCwo6d3Q"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":53,"mission":"ZUMA","ships":[],"youtubeId":"0PWu3BRxn60"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":54,"mission":"SES-16 / GovSat-1","ships":["5ea6ed2f080df4000697c90b"],"youtubeId":"ScYUA51-POQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":55,"mission":"Falcon Heavy Test Flight","ships":["5ea6ed2f080df4000697c90c","5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"wbSwFU6tY1c"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":56,"mission":"Paz / Starlink Demo","ships":["5ea6ed2e080df4000697c908"],"youtubeId":"-p-PToD2URA"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":57,"mission":"Hispasat 30W-6","ships":[],"youtubeId":"Kpfrp-GMKKM"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":58,"mission":"Iridium NEXT Mission 5","ships":["5ea6ed2e080df4000697c908"],"youtubeId":"mp0TW8vkCLg"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":59,"mission":"CRS-14","ships":["5ea6ed30080df4000697c912"],"youtubeId":"BPQHG-LevZM"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":60,"mission":"TESS","ships":["5ea6ed2e080df4000697c90a","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"aY-0uBIYYKk"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":61,"mission":"Bangabandhu-1","ships":["5ea6ed2e080df4000697c90a","5ea6ed2f080df4000697c90b","5ea6ed30080df4000697c913","5ea6ed30080df4000697c916"],"youtubeId":"rQEqKZ7CJlk"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":62,"mission":"Iridium NEXT Mission 6","ships":["5ea6ed2e080df4000697c908"],"youtubeId":"I_0GgKfwCSk"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":63,"mission":"SES-12","ships":["5ea6ed2e080df4000697c90a"],"youtubeId":"2hcM5hqQ45s"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":64,"mission":"CRS-15","ships":["5ea6ed30080df4000697c912"],"youtubeId":"ycMagB1s8XM"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":65,"mission":"Telstar 19V","ships":["5ea6ed2e080df4000697c90a","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"xybp6zLaGx4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":66,"mission":"Iridium NEXT Mission 7","ships":["5ea6ed2f080df4000697c910","5ea6ed2e080df4000697c908","5ea6ed30080df4000697c912","5ea6ed30080df4000697c914"],"youtubeId":"vsDknmK30C0"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":67,"mission":"Merah Putih","ships":["5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"FjfQNBYv2IY"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":68,"mission":"Telstar 18V","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90d","5ea6ed2f080df4000697c90b"],"youtubeId":"Apw3xqwsG1U"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":69,"mission":"SAOCOM 1A","ships":[],"youtubeId":"vr_C6LQ7mHc"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":70,"mission":"Es’hail 2","ships":["5ea6ed2f080df4000697c90d","5ea6ed30080df4000697c913"],"youtubeId":"PhTbzc-BqKs"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":71,"mission":"SSO-A","ships":["5ea6ed2f080df4000697c910","5ea6ed30080df4000697c912","5ea6ed30080df4000697c914","5ea6ed2e080df4000697c908"],"youtubeId":"Wq8kS6UoOrQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":72,"mission":"CRS-16","ships":["5ea6ed2f080df4000697c90b"],"youtubeId":"Esh1jHT9oTA"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":73,"mission":"GPS III SV01","ships":[],"youtubeId":"yRiLPoy_Mzc"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":74,"mission":"Iridium NEXT Mission 8","ships":["5ea6ed2f080df4000697c910","5ea6ed30080df4000697c912","5ea6ed30080df4000697c914"],"youtubeId":"VshdafZvwrg"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":75,"mission":"Nusantara Satu (PSN-6) / S5 / Beresheet","ships":["5ea6ed30080df4000697c913"],"youtubeId":"XS0E35aYJcU"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":76,"mission":"CCtCap Demo Mission 1","ships":["5ea6ed30080df4000697c913"],"youtubeId":"2ZL0tbOZYhE"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":77,"mission":"ArabSat 6A","ships":["5ea6ed2f080df4000697c90e","5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90b","5ea6ed2e080df4000697c909","5ea6ed2f080df4000697c90c"],"youtubeId":"TXMGu2d8c8g"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":78,"mission":"CRS-17","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90e","5ea6ed2f080df4000697c90b"],"youtubeId":"AQFhX5TvP0M"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":79,"mission":"Starlink v0.9","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90c","5ea6ed2f080df4000697c90e","5ea6ed2f080df4000697c90b","5ea6ed2e080df4000697c909"],"youtubeId":"riBaVeDTEWI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":80,"mission":"RADARSAT Constellation","ships":[],"youtubeId":"8A2nJd9Urk8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":81,"mission":"STP-2","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90b","5ea6ed2e080df4000697c909","5ea6ed2e080df4000697c908","5ea6ed2f080df4000697c90e"],"youtubeId":"WxH4CAlhtiQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":82,"mission":"CRS-18","ships":[],"youtubeId":"SlgrxVuP5jk"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":83,"mission":"Amos-17","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c909"],"youtubeId":"fZh82-WcCuo"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":84,"mission":"Starlink 1","ships":["5ea6ed2e080df4000697c908","5ea6ed30080df4000697c913","5ea6ed2e080df4000697c909","5ea6ed2f080df4000697c90d"],"youtubeId":"pIDuv0Ta0XQ"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":85,"mission":"CRS-19","ships":["5ea6ed2f080df4000697c90d"],"youtubeId":"-aoAGdYXp_4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":86,"mission":"JCSat 18 / Kacific 1","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90d"],"youtubeId":"sbXgZg9JmkI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":87,"mission":"Starlink 2","ships":["5ea6ed2e080df4000697c908","5ea6ed30080df4000697c913","5ea6ed2e080df4000697c909","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90d"],"youtubeId":"HwyXo6T7jC4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":88,"mission":"Crew Dragon In Flight Abort Test","ships":["5ea6ed2f080df4000697c90c"],"youtubeId":"mhrkdHshb3E"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":89,"mission":"Starlink 3","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90d"],"youtubeId":"1KmBDCiL7MU"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":90,"mission":"Starlink 4","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed2f080df4000697c90b","5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90d"],"youtubeId":"8xeX62mLcf8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":91,"mission":"CRS-20","ships":[],"youtubeId":"1MkcWK2PnsU"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":92,"mission":"Starlink 5","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90d"],"youtubeId":"I4sMhHbHYXM"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":93,"mission":"Starlink 6","ships":["5ea6ed30080df4000697c913","5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ee68c683c228f36bd5809b5"],"youtubeId":"wSge0I7pwFI"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":95,"mission":"Starlink 7","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ee68c683c228f36bd5809b5"],"youtubeId":"y4xBFHjkUvw"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":94,"mission":"CCtCap Demo Mission 2","ships":["5ea6ed30080df4000697c913","5ea6ed2f080df4000697c90b","5ea6ed2f080df4000697c90c","5ea6ed2e080df4000697c909","5ea6ed2f080df4000697c90d"],"youtubeId":"xY96v0OIcK4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":96,"mission":"Starlink-8 & SkySat 16-18","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed2f080df4000697c90b"],"youtubeId":"8riKQXChPGg"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":102,"mission":"SAOCOM 1B, GNOMES-1 & Capella 2 (Sequoia)","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":97,"mission":"GPS III SV03 (Columbus)","ships":[],"youtubeId":"6zr0nfG3Xy4"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":110,"mission":"SXM-7","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":107,"mission":"GPS III SV04","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":104,"mission":"Crew-1","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":114,"mission":"GPS III SV05","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":108,"mission":"CRS-21","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":111,"mission":"Turksat 5A","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":98,"mission":"ANASIS-II","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed2f080df4000697c90b"],"youtubeId":"TshvZlQ7le8"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":99,"mission":"Starlink-9 (v1.0) & BlackSky Global 5-6","ships":["5ea6ed2e080df4000697c908","5ea6ed2e080df4000697c907","5ea6ed30080df4000697c913","5ee68c683c228f36bd5809b5"],"youtubeId":"KU6KogxG5BE"}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":100,"mission":"Starlink-10 (v1.0) & SkySat 19-21","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":109,"mission":"Sentinel-6 Michael Freilich","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":101,"mission":"Starlink-11 (v1.0)","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":103,"mission":"Starlink-12 (v1.0)","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":105,"mission":"Starlink-13 (v1.0)","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO {"flightNumber":106,"mission":"Starlink-14 (v1.0)","ships":[],"youtubeId":null}
+Sun Aug 02 2020 18:15:14 GMT-0400 (Eastern Daylight Time) INFO Downloaded data for 112 SpaceX launches.
